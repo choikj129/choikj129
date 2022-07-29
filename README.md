@@ -1,6 +1,8 @@
 ## 👨‍💻 Kyeong Ju Choi
 Full-Stack beginner developer
 
+<br>
+
 ### 💻 STACKS
 | Language | Framework | os | DB|
 |---|---|---|---|
@@ -10,7 +12,7 @@ Full-Stack beginner developer
 | --- | --- |
 | <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <br> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">| <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/bitbucket-339AF0?style=flat-square&logo=bitbucket&logoColor=white">
 
-<br><br>
+<br>
 
 ### 📧 Email
 ckj9829@naver.com
